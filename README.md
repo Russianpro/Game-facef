@@ -1,27 +1,65 @@
-# Readme Template 📜
+# 🪨 ROCKMAN - Projeto Desenvolvido no Construct 3
 
-Bem-vindo(a) ao **Readme Template**! Aqui você encontrará uma variedade de modelos de readme para usar em seus repositórios e perfil no GitHub. Explore nossa coleção de templates e encontre aquele que melhor se adequa ao seu projeto. Comece agora mesmo e deixe o seu readme brilhar!
 
-## Templates de perfil ☕️
+## 🎮 Sobre o Projeto
 
-Diga adeus aos perfis sem graça. Com nossos **[templates de perfil](https://github.com/iuricode/readme-template/tree/main/perfil)**, você terá um readme de perfil incrível. Com cores vibrantes, imagens surpreendentes e outros elementos visuais cativantes.
+ROCKMAN é um jogo 2D simples e viciante criado com a engine **Construct 3**, focado em proporcionar uma experiência dinâmica de tiro em estilo arcade. O jogador controla um personagem que deve eliminar caveiras em movimento, para alcançar a maior pontuação possível antes de ser derrotado.
 
-## Templates de repositório 🎉
+Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de design de jogos, lógica de programação em eventos e criação de mecânicas básicas dentro do Construct 3, para faculdade
 
-Documente seus projetos com nossos exemplos de **[templates de repositório](https://github.com/iuricode/readme-template/tree/main/repositorio)** incríveis. Esses templates abrangem diversas seções essenciais, incluindo descrição, instalação, uso, contribuição e licença.
+---
 
-## Status e badges shields 🦄
+## 🛠️ Funcionalidades
 
-Aperfeiçoe o seu perfil e os seus repositórios adicionando **[cards de status](https://github.com/iuricode/readme-template/tree/main/cards-status/readme.md)** e **[badges shields](https://github.com/iuricode/readme-template/tree/main/badges-shields/readme.md)** ao seu readme. Esses cards proporcionam uma visão aprimorada e detalhada das informações relevantes, tornando o seu perfil e os seus projetos ainda mais impressionantes.
+- ✅ Controle de personagem com movimentação fluida
+- ✅ Inimigos com movimentação automática
+- ✅ Sistema de pontuação baseado em acertos
+- ✅ Tela de game over e reinício de partida
+- ✅ Interface intuitiva e responsiva
 
-## Formatações avançadas 🔥
+---
 
-Melhore seus readmes adicionando interações com as **[formatações avançadas.](https://github.com/iuricode/readme-template/tree/main/avancado/readme.md)**
+## 🚀 Como Jogar
 
-## Contribuição ✨
+1. **Movimente-se** com as teclas `⬆`, `⬅`, `⬇`, `⮕` .
+2. **Atire** com o clique esquerdo do mouse.
+3. **Elimine os inimigos** antes que eles alcancem você.
+4. **Sobreviva o maior tempo possível** e **bata seu recorde!**
 
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/readme-template/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/readme-template/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
+---
 
-## Aprenda programação ❤️
+## 📷 Capturas de Tela
 
-Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu curso "**[FrontCode](https://iuricode.com/frontcode)**" se estiver interessado em aprender ou melhorar suas habilidades na programação. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada na programação.
+> ![image](https://github.com/user-attachments/assets/063f3b9f-9fdf-4148-935f-16ff3592aaf2)
+> ![image](https://github.com/user-attachments/assets/0a34efe9-3dee-483c-87f2-737891a41a08)
+
+
+## 📂 Arquivo do jogo 
+
+>[RocketMan.zip](https://github.com/user-attachments/files/19981586/RocketMan.zip) (HTML5)
+> 
+
+## 👾 Sprites Utilizados
+
+> ![Char_idle_down](https://github.com/user-attachments/assets/f51ac6ae-5953-412f-bfa4-2e07057eb9be)
+> ![Skel_idle_down](https://github.com/user-attachments/assets/8c6365a6-3a6e-4b45-9b7f-c59e9fda587c)
+> ![Rock](https://github.com/user-attachments/assets/492b2e69-8fb1-4c53-9cc7-15b74b25af39)
+> ![Bush](https://github.com/user-attachments/assets/7dea908f-3e83-45b9-b979-c5816b90b4f2)
+> ![Tree](https://github.com/user-attachments/assets/a0b6c9be-8469-4f5c-a4c5-8521cea500d0)
+> ![Grass](https://github.com/user-attachments/assets/5703aa36-03aa-4f8b-b056-b9f22b6895cf)
+
+## 🏦 Banco de Dados
+
+Aplicação RealTime do Banco de dados, vinculado ao jogo ROCKMAN
+> ![image](https://github.com/user-attachments/assets/733b0eb6-80e6-4ec5-b168-0cea42a8da27)
+
+## 🔗 Link para jogar online 
+
+> https://russianpro.itch.io/rockman
+
+
+
+
+
+
+
