@@ -40,7 +40,7 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 
 ## 🏦 Banco de Dados
 
-Aplicação RealTime do Banco de dados, vinculado ao jogo ROCKMAN
+Aplicação Real Time no Banco de dados, vinculado ao jogo ROCKMAN
 > ![image](https://github.com/user-attachments/assets/733b0eb6-80e6-4ec5-b168-0cea42a8da27)
 
 ## 👾 Sprites utilizados
